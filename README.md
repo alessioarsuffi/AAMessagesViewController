@@ -45,7 +45,7 @@ See the [website](http://www.jessesquires.com/JSQMessagesViewController/) for th
 
 ````ruby
 # For latest release in cocoapods
-pod 'AAJSQMessagesViewController'
+pod 'AAMessagesViewController'
 
 ````
 
