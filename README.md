@@ -45,10 +45,8 @@ See the [website](http://www.jessesquires.com/JSQMessagesViewController/) for th
 
 ````ruby
 # For latest release in cocoapods
-pod 'JSQMessagesViewController'
+pod 'AAJSQMessagesViewController'
 
-# Latest on develop
-pod 'JSQMessagesViewController', :git => 'https://github.com/jessesquires/JSQMessagesViewController.git', :branch => 'develop'
 ````
 
 ## Getting Started
